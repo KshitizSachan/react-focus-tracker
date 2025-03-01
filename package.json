@@ -1,14 +1,10 @@
 {
   "name": "react-focus-tracker",
-  "version": "1.0.4",
-  "description": "Focus tracker to help improve UX",
+  "version": "1.0.5",
+  "description": "A lightweight React package providing custom hooks to track user across elements and window for enhanced interactivity and accessibility, improving UX",
   "main": "dist/index.js",
   "keywords": [
-    "react",
-    "focus",
-    "hook",
-    "tracker",
-    "ui"
+    "react", "focus", "hook", "tracker", "ui", "ux", "accessibility", "event", "dom", "window", "element", "lifecycle", "custom-hooks", "lightweight", "robust"
   ],
   "peerDependencies": {
     "react": ">=16.8.0"
