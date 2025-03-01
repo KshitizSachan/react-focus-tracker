@@ -1,6 +1,6 @@
 {
   "name": "react-focus-tracker",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A lightweight React package providing custom hooks to track user across elements and window for enhanced interactivity and accessibility, improving UX",
   "main": "dist/index.js",
   "keywords": [
