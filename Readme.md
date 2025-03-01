@@ -166,10 +166,9 @@
  
  Contributions are welcome! If you’d like to improve **React Focus Tracker**, please follow these steps: 
  
- 1. **Fork the repository.** 
+ 1. **Fork the repository.** `https://github.com/KshitizSachan/react-focus-tracker`
  2. **Create a new branch** for your feature or bug fix. 
- 3. **Write tests** for your changes. 
- 4. **Submit a pull request** with a detailed description of your changes. 
+ 3. **Submit a pull request** with a detailed description of your changes. 
  
  For major changes, please open an issue first to discuss what you would like to change. 
  
